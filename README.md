@@ -1,2 +1,2 @@
-# fgh
-sowhat
+# React study
+
